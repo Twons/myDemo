@@ -201,4 +201,9 @@ print(myArr)
 myArr.removeAtIndex(2)
 print(myArr)
 
-print(sss)
+print(333)
+
+print(999990)
+
+print(123)
+
